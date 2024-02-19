@@ -12,7 +12,7 @@ function Projects() {
     </div>
 </section>
 <section className="py-9 bg-slate-100">
-    
+       
 <div className="max-w-4xl w-auto mx-auto px-4 sm:px-6 lg:px-8 pt-5">
         <div className="bg-white border rounded-3xl shadow-sm sm:flex dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
             
